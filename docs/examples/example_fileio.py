@@ -1,0 +1,1 @@
+f = open('filename', 'rb', encoding = 'utf-8')with open('filename', 'rb', encoding = 'utf-8') as f:    # do sth... 
