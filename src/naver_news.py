@@ -15,7 +15,9 @@ name = re.compile(r'[가-힣]{2,4}(\s)?기자')
 ignore_lines = ['무단 전재-재배포 금지.']
 
 
-
+"""
+1. 긁어올 날들을 만듬 
+"""
 def daterange(date1 = date(2016,1,1), date2 = date(2016,2,1)):
     res = []
     for n in range(int ((date2 - date1).days)+1):
@@ -23,6 +25,9 @@ def daterange(date1 = date(2016,1,1), date2 = date(2016,2,1)):
     
     return res
 
+"""
+2. 경기를 
+"""
 def get_links(date, pages = (1, 10)):
     lst = []
     for page in range(*pages):
@@ -46,8 +51,6 @@ def get_links(date, pages = (1, 10)):
     return lst
     
 def clean_content(text, writer_email):
-    """
-    """
     res = []
     for line in text.split('. '):
         if re.match(r'\s*', line) is not None and line != '':

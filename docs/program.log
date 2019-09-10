@@ -1,11 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.18)  16 AUG 2019 20:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.4.14)  6 SEP 2019 09:46
 entering extended mode
 **./program.tex
 (program.tex
 LaTeX2e <2018-12-01>
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article
+.cls"
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.
+clo"
 File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -20,24 +24,27 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.sty"
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
-Package: expl3 2019-02-15 L3 programming layer (loader) 
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsu
+m.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\exp
+l3.sty"
+Package: expl3 2019-04-06 L3 programming layer (loader) 
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-code
-.tex"
-Package: expl3 2019-02-15 L3 programming layer (code)
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\exp
+l3-code.tex"
+Package: expl3 2019-04-06 L3 programming layer (code)
 \c_max_int=\count88
 \l_tmpa_int=\count89
 \l_tmpb_int=\count90
 \g_tmpa_int=\count91
 \g_tmpb_int=\count92
 \g__kernel_prg_map_int=\count93
-\c_log_iow=\count94
-\l_iow_line_count_int=\count95
-\l__iow_line_target_int=\count96
-\l__iow_one_indent_int=\count97
-\l__iow_indent_int=\count98
+\c__ior_term_ior=\count94
+\c_log_iow=\count95
+\l_iow_line_count_int=\count96
+\l__iow_line_target_int=\count97
+\l__iow_one_indent_int=\count98
+\l__iow_indent_int=\count99
 \c_zero_dim=\dimen103
 \c_max_dim=\dimen104
 \l_tmpa_dim=\dimen105
@@ -56,78 +63,78 @@ Package: expl3 2019-02-15 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count99
-\l__intarray_loop_int=\count100
+\l_keys_choice_int=\count100
+\l__intarray_loop_int=\count101
 \c__intarray_sp_dim=\dimen109
-\g__intarray_font_int=\count101
-\c__fp_leading_shift_int=\count102
-\c__fp_middle_shift_int=\count103
-\c__fp_trailing_shift_int=\count104
-\c__fp_big_leading_shift_int=\count105
-\c__fp_big_middle_shift_int=\count106
-\c__fp_big_trailing_shift_int=\count107
-\c__fp_Bigg_leading_shift_int=\count108
-\c__fp_Bigg_middle_shift_int=\count109
-\c__fp_Bigg_trailing_shift_int=\count110
-\c__kernel_randint_max_int=\count111
-\g__fp_array_int=\count112
-\l__fp_array_loop_int=\count113
-\l__sort_length_int=\count114
-\l__sort_min_int=\count115
-\l__sort_top_int=\count116
-\l__sort_max_int=\count117
-\l__sort_true_max_int=\count118
-\l__sort_block_int=\count119
-\l__sort_begin_int=\count120
-\l__sort_end_int=\count121
-\l__sort_A_int=\count122
-\l__sort_B_int=\count123
-\l__sort_C_int=\count124
-\l__tl_analysis_normal_int=\count125
-\l__tl_analysis_index_int=\count126
-\l__tl_analysis_nesting_int=\count127
-\l__tl_analysis_type_int=\count128
-\l__regex_internal_a_int=\count129
-\l__regex_internal_b_int=\count130
-\l__regex_internal_c_int=\count131
-\l__regex_balance_int=\count132
-\l__regex_group_level_int=\count133
-\l__regex_mode_int=\count134
-\c__regex_cs_in_class_mode_int=\count135
-\c__regex_cs_mode_int=\count136
-\l__regex_catcodes_int=\count137
-\l__regex_default_catcodes_int=\count138
-\c__regex_catcode_D_int=\count139
-\c__regex_catcode_S_int=\count140
-\c__regex_catcode_L_int=\count141
-\c__regex_catcode_O_int=\count142
-\c__regex_catcode_A_int=\count143
-\c__regex_all_catcodes_int=\count144
-\l__regex_show_lines_int=\count145
-\l__regex_min_state_int=\count146
-\l__regex_max_state_int=\count147
-\l__regex_left_state_int=\count148
-\l__regex_right_state_int=\count149
-\l__regex_capturing_group_int=\count150
-\l__regex_min_pos_int=\count151
-\l__regex_max_pos_int=\count152
-\l__regex_curr_pos_int=\count153
-\l__regex_start_pos_int=\count154
-\l__regex_success_pos_int=\count155
-\l__regex_curr_char_int=\count156
-\l__regex_curr_catcode_int=\count157
-\l__regex_last_char_int=\count158
-\l__regex_case_changed_char_int=\count159
-\l__regex_curr_state_int=\count160
-\l__regex_step_int=\count161
-\l__regex_min_active_int=\count162
-\l__regex_max_active_int=\count163
-\l__regex_replacement_csnames_int=\count164
-\l__regex_match_count_int=\count165
-\l__regex_min_submatch_int=\count166
-\l__regex_submatch_int=\count167
-\l__regex_zeroth_submatch_int=\count168
-\g__regex_trace_regex_int=\count169
+\g__intarray_font_int=\count102
+\c__fp_leading_shift_int=\count103
+\c__fp_middle_shift_int=\count104
+\c__fp_trailing_shift_int=\count105
+\c__fp_big_leading_shift_int=\count106
+\c__fp_big_middle_shift_int=\count107
+\c__fp_big_trailing_shift_int=\count108
+\c__fp_Bigg_leading_shift_int=\count109
+\c__fp_Bigg_middle_shift_int=\count110
+\c__fp_Bigg_trailing_shift_int=\count111
+\c__kernel_randint_max_int=\count112
+\g__fp_array_int=\count113
+\l__fp_array_loop_int=\count114
+\l__sort_length_int=\count115
+\l__sort_min_int=\count116
+\l__sort_top_int=\count117
+\l__sort_max_int=\count118
+\l__sort_true_max_int=\count119
+\l__sort_block_int=\count120
+\l__sort_begin_int=\count121
+\l__sort_end_int=\count122
+\l__sort_A_int=\count123
+\l__sort_B_int=\count124
+\l__sort_C_int=\count125
+\l__tl_analysis_normal_int=\count126
+\l__tl_analysis_index_int=\count127
+\l__tl_analysis_nesting_int=\count128
+\l__tl_analysis_type_int=\count129
+\l__regex_internal_a_int=\count130
+\l__regex_internal_b_int=\count131
+\l__regex_internal_c_int=\count132
+\l__regex_balance_int=\count133
+\l__regex_group_level_int=\count134
+\l__regex_mode_int=\count135
+\c__regex_cs_in_class_mode_int=\count136
+\c__regex_cs_mode_int=\count137
+\l__regex_catcodes_int=\count138
+\l__regex_default_catcodes_int=\count139
+\c__regex_catcode_D_int=\count140
+\c__regex_catcode_S_int=\count141
+\c__regex_catcode_L_int=\count142
+\c__regex_catcode_O_int=\count143
+\c__regex_catcode_A_int=\count144
+\c__regex_all_catcodes_int=\count145
+\l__regex_show_lines_int=\count146
+\l__regex_min_state_int=\count147
+\l__regex_max_state_int=\count148
+\l__regex_left_state_int=\count149
+\l__regex_right_state_int=\count150
+\l__regex_capturing_group_int=\count151
+\l__regex_min_pos_int=\count152
+\l__regex_max_pos_int=\count153
+\l__regex_curr_pos_int=\count154
+\l__regex_start_pos_int=\count155
+\l__regex_success_pos_int=\count156
+\l__regex_curr_char_int=\count157
+\l__regex_curr_catcode_int=\count158
+\l__regex_last_char_int=\count159
+\l__regex_case_changed_char_int=\count160
+\l__regex_curr_state_int=\count161
+\l__regex_step_int=\count162
+\l__regex_min_active_int=\count163
+\l__regex_max_active_int=\count164
+\l__regex_replacement_csnames_int=\count165
+\l__regex_match_count_int=\count166
+\l__regex_min_submatch_int=\count167
+\l__regex_submatch_int=\count168
+\l__regex_zeroth_submatch_int=\count169
+\g__regex_trace_regex_int=\count170
 \c_empty_box=\box27
 \l_tmpa_box=\box28
 \l_tmpb_box=\box29
@@ -157,104 +164,108 @@ Package: expl3 2019-02-15 L3 programming layer (code)
 \l_tmpb_coffin=\box38
 \g_tmpa_coffin=\box39
 \g_tmpb_coffin=\box40
+\l__coffin_bounding_shift_dim=\dimen125
+\l__coffin_left_corner_dim=\dimen126
+\l__coffin_right_corner_dim=\dimen127
+\l__coffin_bottom_corner_dim=\dimen128
+\l__coffin_top_corner_dim=\dimen129
+\l__coffin_scaled_total_height_dim=\dimen130
+\l__coffin_scaled_width_dim=\dimen131
 \c__coffin_empty_coffin=\box41
 \l__coffin_display_coffin=\box42
 \l__coffin_display_coord_coffin=\box43
 \l__coffin_display_pole_coffin=\box44
-\l__coffin_display_offset_dim=\dimen125
-\l__coffin_display_x_dim=\dimen126
-\l__coffin_display_y_dim=\dimen127
+\l__coffin_display_offset_dim=\dimen132
+\l__coffin_display_x_dim=\dimen133
+\l__coffin_display_y_dim=\dimen134
 \g__file_internal_ior=\read1
-\l__coffin_bounding_shift_dim=\dimen128
-\l__coffin_left_corner_dim=\dimen129
-\l__coffin_right_corner_dim=\dimen130
-\l__coffin_bottom_corner_dim=\dimen131
-\l__coffin_top_corner_dim=\dimen132
-\l__coffin_scaled_total_height_dim=\dimen133
-\l__coffin_scaled_width_dim=\dimen134
-\l__seq_internal_a_int=\count170
-\l__seq_internal_b_int=\count171
+\l__seq_internal_a_int=\count171
+\l__seq_internal_b_int=\count172
+\c__deprecation_minus_one=\count173
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmode.
-def"
-File: l3pdfmode.def 2019-02-15 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count172
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3p
+dfmode.def"
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count174
 ))
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\x
-parse.sty"
-Package: xparse 2018-10-17 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count173
-\g__xparse_grabber_int=\count174
-\l__xparse_m_args_int=\count175
-\l__xparse_mandatory_args_int=\count176
-\l__xparse_v_nesting_int=\count177
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/x
+parse\xparse.sty"
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count175
+\g__xparse_grabber_int=\count176
+\l__xparse_m_args_int=\count177
+\l__xparse_v_nesting_int=\count178
 )
 Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.ltd.t
-ex"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsu
+m.ltd.tex"
 File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 ))
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\mathpazo.sty
-"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\mathp
+azo.sty"
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
-) ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+)
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc
+.sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
- ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.d
+ef"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype
-.sty"
-Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mi
+crotype.sty"
+Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
-"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\key
+val.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 \MT@toks=\toks15
-\MT@count=\count178
-LaTeX Info: Redefining \textls on input line 793.
+\MT@count=\count179
+LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen135
-LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count179
+LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
+\MT@listname@count=\count180
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype
--pdftex.def"
-File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mi
+crotype-pdftex.def"
+File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 913.
-LaTeX Info: Redefining \lslig on input line 913.
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
 \MT@outer@space=\skip49
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype
-.cfg"
-File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mi
+crotype.cfg"
+File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
 ))
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
+metry.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
-y"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+fpdf.sty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+fvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\if
+xetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count180
-\Gm@cntv=\count181
-\c@Gm@tempcnt=\count182
+\Gm@cnth=\count181
+\Gm@cntv=\count182
+\c@Gm@tempcnt=\count183
 \Gm@bindingoffset=\dimen136
 \Gm@wd@mp=\dimen137
 \Gm@odd@mp=\dimen138
@@ -265,18 +276,19 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen143
 \Gm@dimlist=\toks16
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.c
-fg"))
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
+metry.cfg"))
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multic
+ol.sty"
 Package: multicol 2018/11/09 v1.8u multicolumn formatting (FMi)
-\c@tracingmulticols=\count183
+\c@tracingmulticols=\count184
 \mult@box=\box45
 \multicol@leftmargin=\dimen144
-\c@unbalance=\count184
-\c@collectmore=\count185
-\doublecol@number=\count186
-\multicoltolerance=\count187
-\multicolpretolerance=\count188
+\c@unbalance=\count185
+\c@collectmore=\count186
+\doublecol@number=\count187
+\multicoltolerance=\count188
+\multicolpretolerance=\count189
 \full@width=\dimen145
 \page@free=\dimen146
 \premulticols=\dimen147
@@ -307,21 +319,21 @@ Package: multicol 2018/11/09 v1.8u multicolumn formatting (FMi)
 \@tempa=\box66
 \@tempa=\box67
 \@tempa=\box68
-\c@columnbadness=\count189
-\c@finalcolumnbadness=\count190
+\c@columnbadness=\count190
+\c@finalcolumnbadness=\count191
 \last@try=\dimen150
 \multicolovershoot=\dimen151
 \multicolundershoot=\dimen152
 \mult@nat@firstbox=\box69
 \colbreak@box=\box70
-\mc@col@check@num=\count191
+\mc@col@check@num=\count192
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty
-"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capt
+ion.sty"
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.st
-y"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capt
+ion3.sty"
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen153
@@ -332,11 +344,11 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@parindent=\dimen158
 \caption@hangindent=\dimen159
 )
-\c@caption@flags=\count192
-\c@ContinuedFloat=\count193
+\c@caption@flags=\count193
+\c@ContinuedFloat=\count194
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\boo
+ktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen160
 \lightrulewidth=\dimen161
@@ -348,32 +360,34 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen167
 \cmidrulekern=\dimen168
 \defaultaddspace=\dimen169
-\@cmidla=\count194
-\@cmidlb=\count195
+\@cmidla=\count195
+\@cmidlb=\count196
 \@aboverulesep=\dimen170
 \@belowrulesep=\dimen171
-\@thisruleclass=\count196
-\@lastruleclass=\count197
+\@thisruleclass=\count197
+\@lastruleclass=\count198
 \@thisrulewidth=\dimen172
-) ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+)
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.
+sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count198
+\c@float@type=\count199
 \float@exts=\toks17
 \float@box=\box71
 \@float@everytoks=\toks18
 \@floatcapt=\box72
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyp
+erref.sty"
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-h
-yperref.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\h
+obsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-g
-eneric.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\h
+obsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -408,28 +422,28 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.st
-y"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\aux
+hook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
-sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvo
+ptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen173
-\Hy@linkcounter=\count199
-\Hy@pagecounter=\count266
+\Hy@linkcounter=\count266
+\Hy@pagecounter=\count267
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def
-"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1
+enc.def"
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count267
+\Hy@SavedSpaceFactor=\count268
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.c
-fg"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyp
+erref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 4393.
@@ -440,14 +454,15 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count268
- ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\c@Hy@tempcnt=\count269
+
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5125.
 \XeTeXLinkMargin=\dimen174
-\Fld@menulength=\count269
+\Fld@menulength=\count270
 \Field@Width=\dimen175
 \Fld@charsize=\dimen176
 Package hyperref Info: Hyper figures OFF on input line 6380.
@@ -459,46 +474,46 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count270
-\c@Item=\count271
-\c@Hfootnote=\count272
+\Hy@abspage=\count271
+\c@Item=\count272
+\c@Hfootnote=\count273
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.de
-f"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpd
+ftex.def"
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
-\Fld@listcount=\count273
-\c@bookmark@seq@number=\count274
+\Fld@listcount=\count274
+\c@bookmark@seq@number=\count275
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfilec
-heck.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rer
+unfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip52
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\lettrine.s
-ty"
-File: lettrine.sty 2018-08-28 v2.21 (Daniel Flipo)
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\let
+trine.sty"
+File: lettrine.sty 2019-04-06 v2.22 (Daniel Flipo)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/minifp\minifp.sty
-"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/generic/minifp\min
+ifp.sty"
 Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 -based programing language.
-\MFP@loopctr=\count275
+\MFP@loopctr=\count276
 )
-\c@DefaultLines=\count276
-\c@DefaultDepth=\count277
+\c@DefaultLines=\count277
+\c@DefaultDepth=\count278
 \DefaultFindent=\dimen177
 \DefaultNindent=\dimen178
 \DefaultSlope=\dimen179
 \DiscardVskip=\dimen180
 \L@lbox=\box73
 \L@tbox=\box74
-\c@L@lines=\count278
-\c@L@depth=\count279
+\c@L@lines=\count279
+\c@L@depth=\count280
 \L@Pindent=\dimen181
 \L@Findent=\dimen182
 \L@Nindent=\dimen183
@@ -514,122 +529,129 @@ Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 \LettrineWidth=\dimen193
 \LettrineHeight=\dimen194
 \LettrineDepth=\dimen195
+\Llist@everypar=\toks19
 
 Loading lettrine.cfg
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\lettrine.c
-fg"))
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/paralist\paralist.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\let
+trine.cfg"))
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/paralist\par
+alist.sty"
 Package: paralist 2017/01/22 v2.7 Extended list environments
 \pltopsep=\skip53
 \plpartopsep=\skip54
 \plitemsep=\skip55
 \plparsep=\skip56
-\pl@lab=\toks19
+\pl@lab=\toks20
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/braket\braket.sty")
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/braket\brake
+t.sty")
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.
+sty"
 Package: array 2018/11/13 v2.4j Tabular extension package (FMi)
 \col@sep=\dimen196
 \ar@mcellbox=\box75
 \extrarowheight=\dimen197
-\NC@list=\toks20
+\NC@list=\toks21
 \extratabsurround=\skip57
 \backup@length=\skip58
 \ar@cellbox=\box76
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.s
+ty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count280
-\calc@Bcount=\count281
+\calc@Acount=\count281
+\calc@Bcount=\count282
 \calc@Adimen=\dimen198
 \calc@Bdimen=\dimen199
 \calc@Askip=\skip59
 \calc@Bskip=\skip60
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count282
+\calc@Ccount=\count283
 \calc@Cskip=\skip61
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
+phicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
+phics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\tri
+g.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
-cs.cfg"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg
+\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
-.def"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def
+\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen256
 \Gin@req@width=\dimen257
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.s
-ty"
-\lst@mode=\count283
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lis
+tings.sty"
+\lst@mode=\count284
 \lst@gtempboxa=\box77
-\lst@token=\toks21
-\lst@length=\count284
+\lst@token=\toks22
+\lst@length=\count285
 \lst@currlwidth=\dimen258
-\lst@column=\count285
-\lst@pos=\count286
+\lst@column=\count286
+\lst@pos=\count287
 \lst@lostspace=\dimen259
 \lst@width=\dimen260
-\lst@newlines=\count287
-\lst@lineno=\count288
+\lst@newlines=\count288
+\lst@lineno=\count289
 \lst@maxwidth=\dimen261
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
-y"
-File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
-\c@lstnumber=\count289
-\lst@skipnumbers=\count290
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lst
+misc.sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count290
+\lst@skipnumbers=\count291
 \lst@framebox=\box78
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.c
-fg"
-File: listings.cfg 2018/09/02 1.7 listings configuration
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lis
+tings.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2018/09/02 1.7 (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\col
+or.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
-cfg"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg
+\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolo
+r.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
-cfg"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg
+\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\col
+ortbl.sty"
 Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
-\everycr=\toks22
+\everycr=\toks23
 \minrowclearance=\skip62
 )
 LaTeX Info: Redefining \color on input line 709.
-\rownum=\count291
+\rownum=\count292
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -640,35 +662,35 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjustbox
-.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\ad
+justbox.sty"
 Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty
-"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkey
+val.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.t
-ex"
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.
-tex"
-\XKV@toks=\toks23
-\XKV@tempa@toks=\toks24
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xk
+eyval.tex"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xk
+vutils.tex"
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
 )
-\XKV@depth=\count292
+\XKV@depth=\count293
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjcalc.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\ad
+jcalc.sty"
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\trimclip.
-sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\tr
+imclip.sty"
 Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/collectbox\collectb
-ox.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/collectbox\c
+ollectbox.sty"
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box79
 )
@@ -678,8 +700,8 @@ Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \tc@ury=\dimen265
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\tc-pdftex
-.def"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\tc
+-pdftex.def"
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen266
@@ -691,43 +713,45 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 \adjbox@pdepth=\dimen272
 \adjbox@ptotalheight=\dimen273
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifoddpage\ifoddpage
-.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifoddpage\if
+oddpage.sty"
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count293
+\c@checkoddpage=\count294
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/varwidth\varwidth.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/varwidth\var
+width.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box80
-\sift@deathcycles=\count294
+\sift@deathcycles=\count295
 \@vwid@loff=\dimen274
 \@vwid@roff=\dimen275
 ))
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk-ko\kotex.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk-ko\kotex
+.sty"
 Package: kotex 2015/04/19 v1.6 Korean TeX (ko.TeX)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kotex-utf\kotex.cfg
-")
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kotex-utf\kotexutf.
-sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kotex-utf\ko
+tex.cfg")
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kotex-utf\ko
+texutf.sty"
 Package: kotexutf 2015/07/18 v2.1.1 typesetting UTF-8 Korean documents
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputen
+c.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks25
-\inpenc@posthook=\toks26
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/plain/kotex-plain\kotexut
-f-core.tex"
-\unih@ngulpoint=\count295
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/plain/kotex-plain\
+kotexutf-core.tex"
+\unih@ngulpoint=\count296
 \dhucs@emph@raise=\dimen276
 )
 Now handling font encoding LUC ...
 ... processing UTF-8 mapping file for font encoding LUC
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kotex-utf\lucenc.df
-u"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kotex-utf\lu
+cenc.dfu"
 File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
    defining Unicode char U+00B7 (decimal 183)
    defining Unicode char U+2018 (decimal 8216)
@@ -775,32 +799,33 @@ File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
    defining Unicode char U+FF64 (decimal 65380)
    defining Unicode char U+FF65 (decimal 65381)
 )
-\@josa=\count296
-\josatoks=\toks27
+\@josa=\count297
+\josatoks=\toks28
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk-ko\kolabels-utf
-.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk-ko\kolab
+els-utf.sty"
 Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
 )))
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\mul
+tirow.sty"
 Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip63
-\multirow@cntb=\count297
+\multirow@cntb=\count298
 \multirow@dima=\skip64
 \bigstrutjot=\dimen277
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tree-dvips\avm.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tree-dvips\a
+vm.sty"
 \avmdimen=\dimen278
 \avmboxone=\box81
 \avmboxthree=\box82
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/footmisc\footmisc.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/footmisc\foo
+tmisc.sty"
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks28
+\FN@temptoken=\toks29
 \footnotemargin=\dimen279
-\c@pp@next@reset=\count298
+\c@pp@next@reset=\count299
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -810,15 +835,15 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
-\c@theorem=\count299
-\c@corollary=\count300
-\c@define=\count301
-\c@imp=\count302
+\c@theorem=\count300
+\c@corollary=\count301
+\c@define=\count302
+\c@imp=\count303
 Package hyperref Info: Option `colorlinks' set `false' on input line 67.
 Package hyperref Info: Option `pageanchor' set `false' on input line 67.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/abstract\abstract.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/abstract\abs
+tract.sty"
 Package: abstract 2009/06/08 v1.2a configurable abstracts
 \abstitleskip=\skip65
 \absleftindent=\skip66
@@ -826,8 +851,8 @@ Package: abstract 2009/06/08 v1.2a configurable abstracts
 \absparindent=\skip68
 \absparsep=\skip69
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.s
-ty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fan
+cyhdr.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip70
@@ -860,15 +885,16 @@ LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 120.
 LaTeX Font Info:    Try loading font information for LUC+nanummj on input line 
 120.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/nanumtype1\lucnanum
-mj.fd"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/nanumtype1\l
+ucnanummj.fd"
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
 LaTeX Font Info:    ... okay on input line 120.
 LaTeX Font Info:    Try loading font information for T1+pplx on input line 120.
 
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1pplx.fd"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ppl
+x.fd"
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 )
 \big@size=\dimen280
@@ -891,8 +917,8 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-ppl.cf
-g"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt
+-ppl.cfg"
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 *geometry* driver: auto-detecting
@@ -938,15 +964,15 @@ Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box83
 Package hyperref Info: Link coloring OFF on input line 120.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.st
-y"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nam
+eref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitle
-string.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\g
+ettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count303
+\c@section@level=\count304
 )
 LaTeX Info: Redefining \ref on input line 120.
 LaTeX Info: Redefining \pageref on input line 120.
@@ -956,27 +982,27 @@ LaTeX Info: Redefining \nameref on input line 120.
 \openout3 = `program.out'.
 
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.mki
-i"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\
+supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count304
+\scratchcounter=\count305
 \scratchdimen=\dimen281
 \scratchbox=\box84
-\nofMPsegments=\count305
-\nofMParguments=\count306
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count307
+\nofMPsegments=\count306
+\nofMParguments=\count307
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count308
 \MPscratchDim=\dimen282
-\MPnumerator=\count308
-\makeMPintoPDFobject=\count309
-\everyMPtoPDFconversion=\toks30
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
+\everyMPtoPDFconversion=\toks31
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
-ase.sty"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\eps
+topdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
-"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grf
+ext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -986,33 +1012,42 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\c@lstlisting=\count310
+\c@lstlisting=\count311
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <24> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 123.
 LaTeX Font Info:    Try loading font information for OT1+pplx on input line 123
 .
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pplx.fd"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pp
+lx.fd"
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Try loading font information for OML+zplm on input line 123
 .
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzplm.fd"
+
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzp
+lm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Try loading font information for OMS+zplm on input line 123
 .
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszplm.fd"
+
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszp
+lm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Try loading font information for OMX+zplm on input line 123
 .
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzplm.fd"
+
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzp
+lm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Try loading font information for OT1+zplm on input line 123
 .
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd"
+
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zp
+lm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1031,6 +1066,7 @@ LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
 LaTeX Font Info:    Try loading font information for OMS+pplx on input line 229
 .
 LaTeX Font Info:    No file OMSpplx.fd. on input line 229.
+
 
 LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
@@ -1051,107 +1087,108 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Font Info:    Font shape `LUC/nanummj/m/it' in size <10> not available
 (Font)              Font shape `LUC/nanummj/m/sl' tried instead on input line 2
-39.
+47.
 [1
 
-{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+{C:/Users/principia12/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--271
+[2 <./images/python-install1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 278--280
 
  []
 
-[2 <./images/python-install1.png>] [3]
+[3]
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <8> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 330.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 339.
  [4]
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
-ty"
-File: lstlang1.sty 2018/09/02 1.7 listings language file
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lst
+lang1.sty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 369.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 369.
+nput line 378.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 378.
 
- ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.
+fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- (examples/hello.py) (examples/example_bool1.py [5])
+ (examples/hello.py) [5] (examples/example_bool1.py)
 (examples/example_numeric1.py
 LaTeX Font Info:    Try loading font information for LUC+nanumgt on input line 
 5.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/nanumtype1\lucnanum
-gt.fd"
+("C:\Users\principia12\AppData\Local\Programs\MiKTeX 2.9\tex/latex/nanumtype1\l
+ucnanumgt.fd"
 File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
-)) (examples/example_numeric2.py) [6] (examples/example_sequence1.py)
-(examples/example_sequence2.py) (examples/example_dict1.py)
-(examples/example_dict2.py [7]) (examples/example_cal1.py)
-(examples/example_cal2.py) [8] (examples/example_cal3.py)
-(examples/example_class1.py) [9] (examples/example_class1.py)
-(examples/example_class1.py) (examples/example_class2.py [10])
-(examples/example_class2.py) [11] (examples/example_for1.py)
-(examples/example_while1.py) (examples/example_function1.py) [12]
-(examples/example_function2.py) (examples/example_lambda1.py) [13]
-(examples/example_lambda_sort1.py) (examples/example_lambda_sort2.py)
-(examples/example_lambda_sort3.py [14]) (examples/example_lambda_sort4.py)
-[15] (examples/example_lambda_sort3.py) (examples/variables.py)
-(examples/example_interpreter1.py) [16]
-<images/pip.png, id=666, 1284.8pt x 803.0pt>
+)) (examples/example_numeric2.py [6])
+(examples/example_sequence1.py) (examples/example_sequence2.py)
+(examples/example_dict1.py [7]) (examples/example_dict2.py)
+(examples/example_cal1.py) (examples/example_cal2.py [8])
+(examples/example_cal3.py) [9] (examples/example_class1.py)
+(examples/example_class1.py) (examples/example_class1.py) [10]
+(examples/example_class2.py) (examples/example_class2.py [11])
+(examples/example_for1.py) (examples/example_while1.py)
+(examples/example_function1.py) [12] (examples/example_function2.py)
+(examples/example_lambda1.py [13]) (examples/example_lambda_sort1.py)
+(examples/example_lambda_sort2.py) [14] (examples/example_lambda_sort3.py)
+(examples/example_lambda_sort4.py) [15] (examples/example_lambda_sort3.py)
+(examples/variables.py) (examples/example_interpreter1.py [16])
+<images/pip.png, id=654, 1284.8pt x 803.0pt>
 File: images/pip.png Graphic file (type png)
 <use images/pip.png>
-Package pdftex.def Info: images/pip.png  used on input line 741.
+Package pdftex.def Info: images/pip.png  used on input line 750.
 (pdftex.def)             Requested size: 430.00462pt x 268.75243pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [17] [18 <./images/pip.png>]
-<images/mp.png, id=684, 1284.8pt x 803.0pt>
+<images/mp.png, id=685, 1284.8pt x 803.0pt>
 File: images/mp.png Graphic file (type png)
 <use images/mp.png>
-Package pdftex.def Info: images/mp.png  used on input line 774.
+Package pdftex.def Info: images/mp.png  used on input line 783.
 (pdftex.def)             Requested size: 430.00462pt x 268.75243pt.
-<images/re_split.png, id=685, 637.38126pt x 516.93124pt>
+ [19 <./images/mp.png>]
+<images/re_split.png, id=696, 637.38126pt x 516.93124pt>
 File: images/re_split.png Graphic file (type png)
 <use images/re_split.png>
-Package pdftex.def Info: images/re_split.png  used on input line 780.
+Package pdftex.def Info: images/re_split.png  used on input line 789.
 (pdftex.def)             Requested size: 430.00462pt x 348.74pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[19 <./images/mp.png>] [20 <./images/re_split.png>] [21]
-(examples/example_fileio.py) [22]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 977.
- [23]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 977.
+ [20 <./images/re_split.png>] [21] (examples/example_fileio.py) [22] [23] (exam
+ples/example_copydir.py)
+[24]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1010.
+ [25]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1010.
  (program.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 977.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 977.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1010.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1010.
+
 Package rerunfilecheck Info: File `program.out' has not changed.
-(rerunfilecheck)             Checksum: 399395149D90BCB2BE382C623D318146;1637.
+(rerunfilecheck)             Checksum: 7AA76D429087094354DC54EFECFF69FC;1637.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 977.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1010.
  ) 
 Here is how much of TeX's memory you used:
- 24087 strings out of 492946
- 420247 string characters out of 3126710
- 818330 words of memory out of 3000000
- 26939 multiletter control sequences out of 15000+200000
- 664332 words of font info for 416 fonts, out of 3000000 for 9000
+ 24224 strings out of 492946
+ 424486 string characters out of 3123602
+ 809984 words of memory out of 3000000
+ 27040 multiletter control sequences out of 15000+200000
+ 665203 words of font info for 421 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,12n,98p,955b,2115s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,12n,97p,955b,2261s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.17} has been referenced but does not ex
 ist, replaced by a fixed one
 
@@ -1203,160 +1240,172 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
- <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ect
-t0900.pk>{C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/
-8r.enc}<C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/fpl/fplrc8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/nanumtype1/nanumgtmad.pfb><C:/Users/User/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmb0.pfb><C:/Users/User/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmb2.pfb><C:/Users/
-User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmb4
-.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumt
-ype1/nanumgtmb8.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/nanumtype1/nanumgtmb9.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/nanumtype1/nanumgtmba.pfb><C:/Users/User/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmbc.pfb><C:/Users/User
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmbd.pfb
-><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1
-/nanumgtmc2.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/nanumtype1/nanumgtmc5.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/nanumtype1/nanumgtmc6.pfb><C:/Users/User/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmc7.pfb><C:/Users/User/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmc9.pfb><C:
-/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nan
-umgtmd3.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/nanumtype1/nanumgtmd5.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/nanumtype1/nanummjbac.pfb><C:/Users/User/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbad.pfb><C:/Users/User/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbae.pfb><C:/Use
-rs/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummj
-bb2.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nan
-umtype1/nanummjbb3.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/nanumtype1/nanummjbb4.pfb><C:/Users/User/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/nanumtype1/nanummjbb7.pfb><C:/Users/User/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbb8.pfb><C:/Users/U
-ser/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbb9.
-pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumty
-pe1/nanummjbbb.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/nanumtype1/nanummjbbc.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/nanumtype1/nanummjbbe.pfb><C:/Users/User/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbc0.pfb><C:/Users/User/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbc1.pfb>
-<C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/
-nanummjbc2.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/nanumtype1/nanummjbc3.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/nanumtype1/nanummjbc5.pfb><C:/Users/User/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbc6.pfb><C:/Users/User/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbc7.pfb><C:/
-Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanu
-mmjbc8.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-nanumtype1/nanummjbc9.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/nanumtype1/nanummjbcc.pfb><C:/Users/User/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbce.pfb><C:/Users/User/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbcf.pfb><C:/User
-s/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjb
-d0.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanu
-mtype1/nanummjbd1.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/nanumtype1/nanummjbd3.pfb><C:/Users/User/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/nanumtype1/nanummjbd5.pfb><C:/Users/User/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbd6.pfb><C:/Users/Us
-er/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbd7.p
-fb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtyp
-e1/nanummjmac.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/nanumtype1/nanummjmac.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/nanumtype1/nanummjmad.pfb><C:/Users/User/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmad.pfb><C:/Users/User/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmae.pfb><
-C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/n
-anummjmae.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/nanumtype1/nanummjmaf.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/nanumtype1/nanummjmb0.pfb><C:/Users/User/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb0.pfb><C:/Users/User/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb1.pfb><C:/U
-sers/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanum
-mjmb2.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/n
-anumtype1/nanummjmb2.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/nanumtype1/nanummjmb3.pfb><C:/Users/User/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb3.pfb><C:/Users/User/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb4.pfb><C:/Users
-/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb
-5.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanum
-type1/nanummjmb6.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/nanumtype1/nanummjmb6.pfb><C:/Users/User/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/nanumtype1/nanummjmb7.pfb><C:/Users/User/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb7.pfb><C:/Users/Use
-r/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb8.pf
-b><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype
-1/nanummjmb8.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/nanumtype1/nanummjmb9.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/nanumtype1/nanummjmb9.pfb><C:/Users/User/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmba.pfb><C:/Users/User/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmba.pfb><C
-:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/na
-nummjmbb.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/nanumtype1/nanummjmbb.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/nanumtype1/nanummjmbc.pfb><C:/Users/User/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmbc.pfb><C:/Users/User/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmbd.pfb><C:/Us
-ers/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumm
-jmbd.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/na
-numtype1/nanummjmbe.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/nanumtype1/nanummjmbe.pfb><C:/Users/User/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/nanumtype1/nanummjmbf.pfb><C:/Users/User/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc0.pfb><C:/Users/
-User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc0
-.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumt
-ype1/nanummjmc1.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/nanumtype1/nanummjmc1.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/nanumtype1/nanummjmc2.pfb><C:/Users/User/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc2.pfb><C:/Users/User
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc3.pfb
-><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1
-/nanummjmc3.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/nanumtype1/nanummjmc4.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/nanumtype1/nanummjmc5.pfb><C:/Users/User/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc5.pfb><C:/Users/User/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc6.pfb><C:
-/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nan
-ummjmc6.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/nanumtype1/nanummjmc7.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/nanumtype1/nanummjmc7.pfb><C:/Users/User/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc8.pfb><C:/Users/User/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc8.pfb><C:/Use
-rs/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummj
-mc9.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nan
-umtype1/nanummjmc9.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/nanumtype1/nanummjmcc.pfb><C:/Users/User/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/nanumtype1/nanummjmcc.pfb><C:/Users/User/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmcd.pfb><C:/Users/U
-ser/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmcd.
-pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumty
-pe1/nanummjmce.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/nanumtype1/nanummjmce.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/nanumtype1/nanummjmcf.pfb><C:/Users/User/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd0.pfb><C:/Users/User/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd0.pfb>
-<C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/
-nanummjmd1.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/nanumtype1/nanummjmd2.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/nanumtype1/nanummjmd2.pfb><C:/Users/User/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd3.pfb><C:/Users/User/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd3.pfb><C:/
-Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanu
-mmjmd4.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-nanumtype1/nanummjmd5.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/nanumtype1/nanummjmd5.pfb><C:/Users/User/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd6.pfb><C:/Users/User/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd6.pfb><C:/User
-s/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjm
-d7.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatin
-o/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/p
-alatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/urw/palatino/uplri8a.pfb>
-Output written on program.pdf (23 pages, 5726823 bytes).
+ <C:\Users\principia12\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi
+600\ectt0900.pk>{C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/e
+nc/dvips/base/8r.enc}<C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/principia12/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/principia12/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmad.pfb><C:/U
+sers/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype
+1/nanumgtmb0.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/nanumtype1/nanumgtmb2.pfb><C:/Users/principia12/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmb4.pfb><C:/Users/principi
+a12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmb8.
+pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+nanumtype1/nanumgtmb9.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/nanumtype1/nanumgtmba.pfb><C:/Users/principia12/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmbc.pfb><C:/Users
+/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/na
+numgtmbd.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/nanumtype1/nanumgtmc2.pfb><C:/Users/principia12/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmc5.pfb><C:/Users/principia12/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmc6.pfb>
+<C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanu
+mtype1/nanumgtmc7.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/nanumtype1/nanumgtmc9.pfb><C:/Users/principia12/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumgtmd3.pfb><C:/Users/pri
+ncipia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumg
+tmd5.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/nanumtype1/nanummjbac.pfb><C:/Users/principia12/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/nanumtype1/nanummjbad.pfb><C:/Users/principia12/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbae.pfb><C:/
+Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtyp
+e1/nanummjbb2.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/nanumtype1/nanummjbb3.pfb><C:/Users/principia12/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbb4.pfb><C:/Users/princip
+ia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbb7
+.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/nanumtype1/nanummjbb8.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/nanumtype1/nanummjbb9.pfb><C:/Users/principia12/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbbb.pfb><C:/User
+s/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/n
+anummjbbc.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/nanumtype1/nanummjbbe.pfb><C:/Users/principia12/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbc0.pfb><C:/Users/principia12
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbc1.pfb
+><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nan
+umtype1/nanummjbc2.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/nanumtype1/nanummjbc3.pfb><C:/Users/principia12/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbc5.pfb><C:/Users/pr
+incipia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanum
+mjbc6.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/nanumtype1/nanummjbc7.pfb><C:/Users/principia12/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/nanumtype1/nanummjbc8.pfb><C:/Users/principia12/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbc9.pfb><C:
+/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumty
+pe1/nanummjbcc.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/nanumtype1/nanummjbce.pfb><C:/Users/principia12/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbcf.pfb><C:/Users/princi
+pia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbd
+0.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/nanumtype1/nanummjbd1.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/nanumtype1/nanummjbd3.pfb><C:/Users/principia12/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjbd5.pfb><C:/Use
+rs/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/
+nanummjbd6.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/nanumtype1/nanummjbd7.pfb><C:/Users/principia12/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmac.pfb><C:/Users/principia1
+2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmac.pf
+b><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/na
+numtype1/nanummjmad.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/nanumtype1/nanummjmad.pfb><C:/Users/principia12/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmae.pfb><C:/Users/p
+rincipia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanu
+mmjmae.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/nanumtype1/nanummjmaf.pfb><C:/Users/principia12/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb0.pfb><C:/Users/principia12/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb0.pfb><C
+:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumt
+ype1/nanummjmb1.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/nanumtype1/nanummjmb2.pfb><C:/Users/principia12/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb2.pfb><C:/Users/princ
+ipia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjm
+b3.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/nanumtype1/nanummjmb3.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/nanumtype1/nanummjmb4.pfb><C:/Users/principia12/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb5.pfb><C:/Us
+ers/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1
+/nanummjmb6.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/nanumtype1/nanummjmb6.pfb><C:/Users/principia12/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb7.pfb><C:/Users/principia
+12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb7.p
+fb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/n
+anumtype1/nanummjmb8.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/nanumtype1/nanummjmb8.pfb><C:/Users/principia12/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmb9.pfb><C:/Users/
+principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nan
+ummjmb9.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/nanumtype1/nanummjmba.pfb><C:/Users/principia12/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmba.pfb><C:/Users/principia12/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmbb.pfb><
+C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanum
+type1/nanummjmbb.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/nanumtype1/nanummjmbc.pfb><C:/Users/principia12/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmbc.pfb><C:/Users/prin
+cipia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummj
+mbd.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/nanumtype1/nanummjmbd.pfb><C:/Users/principia12/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/nanumtype1/nanummjmbe.pfb><C:/Users/principia12/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmbe.pfb><C:/U
+sers/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype
+1/nanummjmbf.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/nanumtype1/nanummjmc0.pfb><C:/Users/principia12/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc0.pfb><C:/Users/principi
+a12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc1.
+pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+nanumtype1/nanummjmc1.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/nanumtype1/nanummjmc2.pfb><C:/Users/principia12/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc2.pfb><C:/Users
+/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/na
+nummjmc3.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/nanumtype1/nanummjmc3.pfb><C:/Users/principia12/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc4.pfb><C:/Users/principia12/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc5.pfb>
+<C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanu
+mtype1/nanummjmc5.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/nanumtype1/nanummjmc6.pfb><C:/Users/principia12/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc6.pfb><C:/Users/pri
+ncipia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanumm
+jmc7.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/nanumtype1/nanummjmc7.pfb><C:/Users/principia12/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/nanumtype1/nanummjmc8.pfb><C:/Users/principia12/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmc8.pfb><C:/
+Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtyp
+e1/nanummjmc9.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/nanumtype1/nanummjmc9.pfb><C:/Users/principia12/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmca.pfb><C:/Users/princip
+ia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmcc
+.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/nanumtype1/nanummjmcc.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/nanumtype1/nanummjmcd.pfb><C:/Users/principia12/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmcd.pfb><C:/User
+s/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/n
+anummjmce.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/nanumtype1/nanummjmce.pfb><C:/Users/principia12/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmcf.pfb><C:/Users/principia12
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd0.pfb
+><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nan
+umtype1/nanummjmd0.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/nanumtype1/nanummjmd1.pfb><C:/Users/principia12/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd2.pfb><C:/Users/pr
+incipia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanum
+mjmd2.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/nanumtype1/nanummjmd3.pfb><C:/Users/principia12/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd3.pfb><C:/Users/principia12/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd4.pfb><C:
+/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumty
+pe1/nanummjmd5.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/nanumtype1/nanummjmd5.pfb><C:/Users/principia12/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd6.pfb><C:/Users/princi
+pia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/nanumtype1/nanummjmd
+6.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/nanumtype1/nanummjmd7.pfb><C:/Users/principia12/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/principia12/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/principia12/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on program.pdf (25 pages, 5809439 bytes).
 PDF statistics:
- 1253 PDF objects out of 1440 (max. 8388607)
- 400 named destinations out of 1000 (max. 500000)
+ 1297 PDF objects out of 1440 (max. 8388607)
+ 428 named destinations out of 1000 (max. 500000)
  58085 words of extra memory for PDF output out of 61914 (max. 10000000)
 
