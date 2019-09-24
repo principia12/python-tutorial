@@ -14,6 +14,16 @@ name = re.compile(r'[가-힣]{2,4}(\s)?기자')
 
 ignore_lines = ['무단 전재-재배포 금지.']
 
+def crawl_daily_articles(day):
+    if not os.path.exists(day):
+        os.mkdir(day)
+    
+    for idx, link in enumerate(get_links(day)):
+        f = open(os.path.join(day, str(idx) + '.txt'), 'w+', encoding = 'utf-8')
+        get_article(link, f)
+    
+    
+
 
 """
 1. 긁어올 날들을 만듬 
@@ -26,7 +36,7 @@ def daterange(date1 = date(2016,1,1), date2 = date(2016,2,1)):
     return res
 
 """
-2. 경기를 
+2. 기사를 긁어올 링크들을 모음
 """
 def get_links(date, pages = (1, 10)):
     lst = []
@@ -50,16 +60,7 @@ def get_links(date, pages = (1, 10)):
             
     return lst
     
-def clean_content(text, writer_email):
-    res = []
-    for line in text.split('. '):
-        if re.match(r'\s*', line) is not None and line != '':
-            res.append(line.strip() +'.')
-        elif writer_email in line:
-            # print(line)
-            return res 
-    return res 
-    
+
 def get_article(link, file = sys.stdout):
     req = requests.get(link)
     html = req.text 
@@ -117,16 +118,17 @@ def get_article(link, file = sys.stdout):
             print(sent, file = file)
     print('기사 내용 끝', file = file)
 
+def clean_content(text, writer_email):
+    res = []
+    for line in text.split('. '):
+        if re.match(r'\s*', line) is not None and line != '':
+            res.append(line.strip() +'.')
+        elif writer_email in line:
+            # print(line)
+            return res 
+    return res 
+    
 
-def crawl_daily_articles(day):
-    if not os.path.exists(day):
-        os.mkdir(day)
-    
-    for idx, link in enumerate(get_links(day)):
-        f = open(os.path.join(day, str(idx) + '.txt'), 'w+', encoding = 'utf-8')
-        get_article(link, f)
-    
-    
 if __name__ == '__main__':
     # lst = get_links('20190719')
     # print(len(lst))
