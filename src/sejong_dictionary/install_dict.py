@@ -70,6 +70,20 @@ def explorer(root_dir):
             yield from explorer(p)
         yield p, elem
         
+    
+def remove_dir(directory):
+    """Remove directory if it exists. 
+    
+    Can also remove a non-empty directory by recursive call. 
+    """
+    for f in os.listdir(directory):
+        pth = os.path.join(directory, f)
+        if os.path.isdir(pth):
+            remove_dir(pth)
+        else:
+            os.remove(pth)
+    os.rmdir(directory)
+        
 def unzip_file(path_to_zip, path_to_unzip):
     create_dir(path_to_unzip)
     
