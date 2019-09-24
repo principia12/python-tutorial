@@ -3,3 +3,4 @@ src/for loop
 src/practices/*/*
 src/sejong_dictionary/*/*
 src/crawler/*/*
+*.pickle

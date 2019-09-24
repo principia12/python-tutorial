@@ -7,7 +7,7 @@ from time import time
 from Tree import Tree 
 from Node import Node 
 
-kordic_path = r'C:\Users\principia12\Desktop\Work\sent2dl\data\kordic'
+kordic_path = 'kordic'
 
 def file_explorer(root_dir, crit = lambda x:True):
     for f in os.listdir(root_dir):
@@ -133,11 +133,11 @@ if __name__ == '__main__':
     
     # print(end-begin) # takes 30s 
     
-    # begin = time()
-    # create_dict()
-    # end = time()
+    begin = time()
+    create_dict()
+    end = time()
     
-    # print(end-begin) # takes 30s 
+    print(end-begin) # takes 30s 
     
     begin = time()
     d = pickle.load(open('kordic.pickle', 'rb'))
